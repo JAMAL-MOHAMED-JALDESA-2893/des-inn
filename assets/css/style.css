@@ -10085,7 +10085,7 @@ body.megamenu-popup-active .mobile-nav__content {
 --------------------------------------------------------------*/
 .faq-one {
   position: relative;
-  background-color: var(--tolak-black, #051d1f);
+  background-color: #091f05;
   padding: 120px 0;
 }
 .faq-one--dark {
@@ -10110,6 +10110,8 @@ body.megamenu-popup-active .mobile-nav__content {
 .faq-one__content .sec-title-two {
   position: relative;
   padding-bottom: 20px;
+}.faq-one--dark .faq-one__content__image::after {
+  border-color: transparent #122438 transparent transparent;
 }
 .faq-one__content .sec-title-two__title {
   color: var(--tolak-white, #fff);
@@ -10131,17 +10133,7 @@ body.megamenu-popup-active .mobile-nav__content {
   width: 100%;
   height: auto;
 }
-.faq-one__content__image::after {
-  width: 0px;
-  height: 0px;
-  border-style: solid;
-  border-width: 74px 70px 74px 0;
-  border-color: transparent var(--tolak-black, #051d1f) transparent transparent;
-  position: absolute;
-  right: 0;
-  top: 0;
-  content: "";
-}
+
 .faq-one__content__image__shape {
   position: absolute;
   right: 0;
