@@ -1978,13 +1978,13 @@ h6 {
 }
 
 .blog-one {
-  padding: 120px 0;
+  padding: 20px 0;
   position: relative;
   background-color: var(--tolak-white, #fff);
 }
 @media (max-width: 767px) {
   .blog-one {
-    padding: 80px 0;
+    padding: 50px 0;
   }
 }
 
