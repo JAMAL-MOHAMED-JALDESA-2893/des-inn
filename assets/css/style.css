@@ -6767,12 +6767,12 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .cta-one--reverse {
   position: relative;
-  padding: 110px 0;
+  padding: 11px 0;
 }
 @media (max-width: 991px) {
   .cta-one--reverse {
     padding: 0 0;
-    margin: 80px 0;
+    margin: 50px 0;
   }
 }
 @media (max-width: 767px) {
@@ -14877,12 +14877,12 @@ body.megamenu-popup-active .mobile-nav__content {
 .about-four {
   position: relative;
   z-index: 1;
-  padding: 120px 0;
+  padding: 12px 0;
   background-color: var(--tolak-white, #fff);
 }
 @media (max-width: 767px) {
   .about-four {
-    padding: 80px 0;
+    padding: 50px 0;
   }
 }
 .about-four__image {
