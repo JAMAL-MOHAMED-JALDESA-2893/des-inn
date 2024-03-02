@@ -15912,13 +15912,13 @@ body.megamenu-popup-active .mobile-nav__content {
 --------------------------------------------------------------*/
 .project-one {
   position: relative;
-  padding: 120px 0;
+  padding: 12px 0;
   counter-reset: count;
   background-color: var(--tolak-white, #fff);
 }
 @media (max-width: 767px) {
   .project-one {
-    padding: 80px 0;
+    padding: 50px 0;
   }
 }
 .project-one .container {
