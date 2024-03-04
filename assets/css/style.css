@@ -15224,7 +15224,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .service-one {
   position: relative;
   background-color: var(--tolak-white, #fff);
-  padding: 110px 0 120px;
+  padding: 20px 0 120px;
   counter-reset: count;
 }
 .service-one--home-four {
